@@ -7,6 +7,6 @@ int main(){
 	cout<<"---------------"<<endl;
 	
 	
-	
+	cout<<"add some creative feature"<<endl;
 	return 0;
 }
